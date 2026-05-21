@@ -8,13 +8,14 @@
 
 Um sistema completo (CRM + Landing Page) para gestão de clínicas, desenvolvido para otimizar o tempo de profissionais da saúde. O projeto conta com agendamento online pelo paciente, integração em tempo real e sincronização automática com o Google Calendar.
 
-> 🔗 **Acesse o projeto online:** (https://juliacruzsaude.vercel.app/)
+> 🔗 **Acesse o projeto online:** https://juliacruzsaude.vercel.app/
 
 ---
 
 ## 📸 Demonstração
 
 <div align="center">
+ 
   **Tela de Login**
   <img width="1910" height="908" alt="Login Screan" src="https://github.com/user-attachments/assets/a44b9fe5-08e9-4cd2-b00c-91c2c9f83c1d" />
   
@@ -35,6 +36,7 @@ Um sistema completo (CRM + Landing Page) para gestão de clínicas, desenvolvido
   
   **Prontuários Aberto**
   <img width="1909" height="911" alt="image" src="https://github.com/user-attachments/assets/e0dd2fd7-c8b4-419e-806a-4193c5aca8f5" />
+  
 </div>
 
 ---

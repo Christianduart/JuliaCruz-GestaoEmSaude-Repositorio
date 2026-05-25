@@ -71,6 +71,10 @@ Muitos profissionais da saúde perdem horas organizando agendas no papel ou What
 * Googleapis (Integração OAuth2 para manipular a agenda debaixo dos panos)
 * Hospedagem: Render
 
+**Ferramentas Adicionais**
+
+* AI-Assisted Development: Google Gemini (para refatoração, code review e otimização de lógica).
+
 ---
 
 ## ⚙️ Arquitetura do Sistema
@@ -89,6 +93,6 @@ O fluxo principal de agendamento funciona da seguinte forma:
 
 ## 👨‍💻 Autor
 
-**Christian Duarte** Graduando em Ciência da Computação (5º período) pela Universidade Anhanguera. Desenvolvi este sistema full-stack do zero para resolver uma dor real de negócios, aplicando na prática meus conhecimentos em arquitetura de software, integração de APIs e banco de dados. 
+**Christian Duarte** Graduando em Ciência da Computação (5º período) pela Universidade Anhanguera. Desenvolvi este sistema full-stack do zero para resolver uma dor real de negócios, aplicando na prática meus conhecimentos em arquitetura de software, integração de APIs e banco de dados. Durante o desenvolvimento, utilizei o Google Gemini como assistente de IA para pair programming, acelerando o debugging e aprimorando a qualidade do código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianduart)
